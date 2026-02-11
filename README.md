@@ -11,3 +11,6 @@ Apart from these three technical skills, I can also practice soft skills like...
 1. Keeping my code, files, folders organized.
 2. Writing good, often commit messages
 3. Good readme file, that explains the project.
+
+Credits
+1. Chana masala image - https://commons.wikimedia.org/wiki/File:Chana_masala.jpg
