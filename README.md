@@ -14,3 +14,5 @@ Apart from these three technical skills, I can also practice soft skills like...
 
 Credits
 1. Chana masala image - https://commons.wikimedia.org/wiki/File:Chana_masala.jpg
+2. Red lentil curry image - https://commons.wikimedia.org/wiki/File:Red_lentil_curry_soup.jpg
+3. Saag paneer image - https://commons.wikimedia.org/wiki/File:Palak_Paneer_%28Cottage_cheese_in_spinach_gravy%29.jpg
