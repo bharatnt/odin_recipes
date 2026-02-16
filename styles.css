@@ -1,0 +1,48 @@
+.recipe-box{
+    display: inline-block;
+    width: 28%;
+    margin: 20px 1% ;
+}
+
+.recipe-page, .recipe-box {
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #9999;
+    border-radius: 10px;
+}
+
+.recipe-page{
+    width: 900px;
+    margin: 20px auto;
+
+}
+
+p, li, a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+h1, h2{
+    font-family: Garamond, Georgia, serif;
+}
+
+h1{
+    font-size: 32px;
+}
+
+h2{
+    font-size: 28px;
+}
+
+h1, h2, .read-more-link{
+    text-transform: capitalize;
+}
+
+.dish-img{
+    height: 340px;
+}
+
+.dish-img, .recipe-page-img{
+    border-radius: 10px;
+    width: 100%;
+}
